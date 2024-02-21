@@ -6,7 +6,7 @@
 **Joshuaarr/Joshuaarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 I’m currently working on improving my  **programming**  skills. <br>
+🔭 I’m currently working on improving my  **personal website**. <br>
 🌱 I’m currently learning **cloud computing** and **computer system**.<br>
 👯 I’m looking to collaborate on **anything fun**!<br>
 🤔 I’m looking for help with **securing an internship as a software developer**.<br>
