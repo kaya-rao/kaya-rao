@@ -7,7 +7,7 @@
 -->
 
 🔭 I’m currently working on improving my  **personal website**. <br>
-🌱 I’m currently learning **cloud computing** and **computer system**.<br>
+🌱 I’m currently learning **cloud computing** and **computer systems**.<br>
 👯 I’m looking to collaborate on **anything fun**!<br>
 🤔 I’m looking for help with **securing an internship as a software developer**.<br>
 💬 Ask me about **anything related to web development, volleyball, or film camera**.<br>
