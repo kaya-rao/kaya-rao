@@ -8,8 +8,10 @@
 <!--
 🔭 I’m currently working on improving my  **personal website**. <br>
 -->
-🌱 I’m currently learning **Rust**, **cloud computing** and **computer systems**.<br>
+🌱 I’m currently learning **Rust**, **AWS** and **computer systems**.<br>
+<!--
 👯 I’m looking to collaborate on **anything fun**!<br>
+-->
 🤔 I’m looking for help with **securing an internship as a software developer**.<br>
 💬 Ask me about **anything related to web development, volleyball, or film camera**.<br>
 📫 How to reach me: **raoyunxuan@outlook.com**<br>
@@ -35,8 +37,43 @@ I am passionate about web application development, with expertise in both front-
 
 </div>
 
+## Projects:
+
+### [Gallery web application]()
+
+##### ReactJS | NodeJS | ExpressJS | MongoDB
+
+Web application allow user to search for artworks, collect them and create their own gallery.
+
+### [Kanvas web application]()
+
+##### ReactJS | NodeJS | ExpressJS | MongoDB
+
+A Canvas clone.
+
+### [Database Management System for role-play game]()
+
+##### ReactJS | NodeJS | ExpressJS | MongoDB
+
+A web application allow user to search for artworks, collect them and create their own gallery.
+
+### [Gesture-based music notation app]()
+
+##### ReactJS | NodeJS | ExpressJS | MongoDB
+
+Java application allow user to search for artworks, collect them and create their own gallery.
+
+### [Games: Othello game, Pacman, Mine Sweeper](https://github.com/Joshuaarr/Games_Python_Processing)
+
+##### Python | Processing
+
+Games developing using Python and Processing.
 
 
+
+
+
+<!--
 ## 📈 GitHub Stats
 
 <a href="https://github.com/Joshuaarr/Joshuaarr">
@@ -46,3 +83,4 @@ I am passionate about web application development, with expertise in both front-
 <a href="https://github.com/Joshuaarr/Joshuaarr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joshuaarr&show_icons=true&line_height=27&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000"/>
 </a>
+-->
