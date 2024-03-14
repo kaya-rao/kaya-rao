@@ -25,7 +25,7 @@
 <img align=left src="https://img.shields.io/badge/-Javascript-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="javascript">
 <img align=left src="https://img.shields.io/badge/-React-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="react">
 <img align=left src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
-<img align=top src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
+<img align=left src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 </div>
 <div align=left>
  <br/>
@@ -39,31 +39,33 @@ I am passionate about web application development, with expertise in both front-
 
 ## Projects:
 
-### [Gallery web application]()
+### [Gallery web application](https://github.com/Joshuaarr/art-gallery-react-app)
 
 ##### ReactJS | NodeJS | ExpressJS | MongoDB
 
-Web application allow user to search for artworks, collect them and create their own gallery.
+Web application allow user to search for artworks, collect artworks and create their own gallery.
 
-### [Kanvas web application]()
+
+### [Kanvas web application](https://github.com/Joshuaarr/kanbas-react-web-app-2/tree/main)
 
 ##### ReactJS | NodeJS | ExpressJS | MongoDB
 
 A Canvas clone.
 
-### [Database Management System for role-play game]()
+### [Database Management System for role-play game](https://github.com/Joshuaarr/DBMS_2023)
 
-##### ReactJS | NodeJS | ExpressJS | MongoDB
+##### MySQL | Java | JSP | JDBC
 
 A web application allow user to search for artworks, collect them and create their own gallery.
 
-### [Gesture-based music notation app]()
+### [Gesture-based music notation app](https://github.com/Joshuaarr/music_app_java_2022fall)
 
-##### ReactJS | NodeJS | ExpressJS | MongoDB
+##### Java | javax.swing | java.awt
 
 Java application allow user to search for artworks, collect them and create their own gallery.
 
 ### [Games: Othello game, Pacman, Mine Sweeper](https://github.com/Joshuaarr/Games_Python_Processing)
+
 
 ##### Python | Processing
 
