@@ -8,7 +8,7 @@
 <!--
 🔭 I’m currently working on improving my  **personal website**. <br>
 -->
-🌱 I’m currently learning **Rust**, **AWS** and **computer systems**.<br>
+🌱 I’m currently learning **Springboot**, **AWS** and **computer networking**.<br>
 <!--
 👯 I’m looking to collaborate on **anything fun**!<br>
 -->
