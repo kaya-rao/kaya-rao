@@ -8,13 +8,15 @@
 <!--
 🔭 I’m currently working on improving my  **personal website**. <br>
 -->
-🌱 I’m currently learning **Springboot**, **AWS** and **computer networking**.<br>
+
+🌱 I’m currently learning **NLP**, **Computer Vision**.<br>
+
 <!--
 👯 I’m looking to collaborate on **anything fun**!<br>
 -->
 🤔 I’m looking for help with **securing an internship as a software developer**.<br>
 💬 Ask me about **anything related to web development, volleyball, or film camera**.<br>
-📫 How to reach me: **raoyunxuan@outlook.com**<br>
+📫 How to reach me: **kaya.rao.jobs@gmail.com**<br>
 😄 Pronouns: **She/Her**<br>
 ⚡ Fun fact:**I grow green onions**.<br>
 
