@@ -28,7 +28,7 @@
  <br/>
  
  ## About Me:
-Hi, this is Kaya! I am a graduate student at Northeastern University majoring in Computer Science. I am actively seeking for SDE 2025 Newgras and internships for 2025 Spring.
+Hi, this is Kaya! I am a graduate student at Northeastern University majoring in Computer Science. I am actively seeking for SDE 2025 New Grads and internships for 2025 Spring.
 
 I am passionate about web application development, with expertise in both front-end (JavaScript, React) and back-end (Node.js, Java). Coming from a background in physics equipped me with an analytical mind to solve problems effectively. Besides that, I’m eager to learn new technologies and frameworks!
 
