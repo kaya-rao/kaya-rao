@@ -11,10 +11,12 @@
 
 🌱 I’m currently learning **NLP**, **Computer Vision**.<br>
 
-<!--
+
 👯 I’m looking to collaborate on **anything fun**!<br>
 -->
+<!--
 🤔 I’m looking for help with **securing an internship as a software developer**.<br>
+-->
 💬 Ask me about **anything related to web development, volleyball, or film camera**.<br>
 📫 How to reach me: **kaya.rao.jobs@gmail.com**<br>
 😄 Pronouns: **She/Her**<br>
@@ -33,7 +35,7 @@
  <br/>
  
  ## About Me:
-Hi, this is Kaya! I am a graduate student at Northeastern University majoring in Computer Science. I am actively seeking for SDE internship for 2024.
+Hi, this is Kaya! I am a graduate student at Northeastern University majoring in Computer Science. I am actively seeking for SDE 2025 Newgras and internships for 2025 Spring.
 
 I am passionate about web application development, with expertise in both front-end (JavaScript, React) and back-end (Node.js, Java). Coming from a background in physics equipped me with an analytical mind to solve problems effectively. Besides that, I’m eager to learn new technologies and frameworks!
 
