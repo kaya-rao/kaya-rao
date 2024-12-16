@@ -36,32 +36,39 @@ I am passionate about web application development, with expertise in both front-
 
 ## Projects:
 
-### [Gallery web application](https://github.com/Joshuaarr/art-gallery-react-app)
+### [Mushroom Identifier](https://github.com/kaya-rao/Mushroom_Identifier)
+
+##### CNN | TensorFlow | NumPy | DenseNet
+
+A deep learning project aimed at classifying mushroom species using pre-trained Convolutional Neural Networks (CNNs)
+
+
+### [Gallery web application](https://github.com/kaya-rao/art-gallery-react-app)
 
 ##### ReactJS | NodeJS | ExpressJS | MongoDB
 
 Web application allow user to search for artworks, collect artworks and create their own gallery.
 
 
-### [Kanvas web application](https://github.com/Joshuaarr/kanbas-react-web-app-2/tree/main)
+### [Kanvas web application](https://github.com/kaya-rao/kanbas-react-web-app-2/tree/main)
 
 ##### ReactJS | NodeJS | ExpressJS | MongoDB
 
 A Canvas clone.
 
-### [Database Management System for role-play game](https://github.com/Joshuaarr/DBMS_2023)
+### [Database Management System for role-play game](https://github.com/kaya-rao/DBMS_2023)
 
 ##### MySQL | Java | JSP | JDBC
 
 A web application allow user to search for artworks, collect them and create their own gallery.
 
-### [Gesture-based music notation app](https://github.com/Joshuaarr/music_app_java_2022fall)
+### [Gesture-based music notation app](https://github.com/kaya-rao/music_app_java_2022fall)
 
 ##### Java | javax.swing | java.awt
 
 Java application allow user to search for artworks, collect them and create their own gallery.
 
-### [Games: Othello game, Pacman, Mine Sweeper](https://github.com/Joshuaarr/Games_Python_Processing)
+### [Games: Othello game, Pacman, Mine Sweeper](https://github.com/kaya-rao/Games_Python_Processing)
 
 
 ##### Python | Processing
