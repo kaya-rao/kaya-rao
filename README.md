@@ -43,6 +43,13 @@ I am passionate about web application development, with expertise in both front-
 A deep learning project aimed at classifying mushroom species using pre-trained Convolutional Neural Networks (CNNs)
 
 
+### [TinyCV](https://github.com/kaya-rao/TinyCV)
+
+##### C++ | OpenCV
+
+Customized live-stream video filters library, build with OpenCV and C++.
+
+
 ### [Gallery web application](https://github.com/kaya-rao/art-gallery-react-app)
 
 ##### ReactJS | NodeJS | ExpressJS | MongoDB
