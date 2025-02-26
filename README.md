@@ -9,11 +9,10 @@
 🔭 I’m currently working on improving my  **personal website**. <br>
 -->
 🌱 I’m currently learning **NLP**, **Computer Vision**, **AI Infa** and **Distributed Systems**.<br>
-👯 I’m looking to collaborate on **anything fun**!<br>
+👯 I’m looking for **SDE 2025 New Grads** or **Research** Oppotunities!<br>
 💬 Ask me about **anything related to AI/ML, building scalable systems, volleyball, or film camera**.<br>
 📫 How to reach me: **kaya.rao.jobs@gmail.com**<br>
-😄 Pronouns: **She/Her**<br>
-⚡ Fun fact:**I grow green onions**.<br>
+
 
 ## Languages and Tools:
 
@@ -37,13 +36,6 @@
 </div>
 
 <div align=left>
- 
- ## About Me:
-Hi, this is Kaya! I am a graduate student at Northeastern University majoring in Computer Science. I am actively seeking for SDE 2025 New Grads and Research Oppotunities.
-
-I am passionate about AI/ML and web development, with expertise in both front-end and back-end. Coming from a background in physics equipped me with an analytical mind to solve problems effectively. Besides that, I’m always eager to learn new technologies and frameworks as a fast learner!
-
-</div>
 
 ## Projects:
 
