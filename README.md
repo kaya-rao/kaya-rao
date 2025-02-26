@@ -8,29 +8,45 @@
 <!--
 🔭 I’m currently working on improving my  **personal website**. <br>
 -->
-🌱 I’m currently learning **NLP**, **Computer Vision**.<br>
+🌱 I’m currently learning **NLP**, **Computer Vision**, **AI Infa** and **Distributed Systems**.<br>
 👯 I’m looking to collaborate on **anything fun**!<br>
-💬 Ask me about **anything related to web development, volleyball, or film camera**.<br>
+💬 Ask me about **anything related to AI/ML, building scalable systems, volleyball, or film camera**.<br>
 📫 How to reach me: **kaya.rao.jobs@gmail.com**<br>
 😄 Pronouns: **She/Her**<br>
 ⚡ Fun fact:**I grow green onions**.<br>
 
 ## Languages and Tools:
-<div>
-<img align=left src="https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="html5">
-<img align=left src="https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="css3">
-<img align=left src="https://img.shields.io/badge/-Javascript-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="javascript">
-<img align=left src="https://img.shields.io/badge/-React-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="react">
-<img align=left src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
-<img align=left src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
+
+<div align="left">
+    <img src="https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5">
+    <img src="https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
+    <img src="https://img.shields.io/badge/-JavaScript-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-TypeScript-F3F7FA?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="TypeScript">
+    <img src="https://img.shields.io/badge/-React-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
+    <img src="https://img.shields.io/badge/-Next.js-F3F7FA?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">
+    <img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
+    <img src="https://img.shields.io/badge/-Express.js-F3F7FA?logo=express&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Express.js">
 </div>
+
+<br>
+
+<div align="left">
+    <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
+    <img src="https://img.shields.io/badge/-PyTorch-F3F7FA?logo=pytorch&logoColor=EE4C2C&style=for-the-badge&logoWidth=30" alt="PyTorch">
+    <img src="https://img.shields.io/badge/-TensorFlow-F3F7FA?logo=tensorflow&logoColor=FF6F00&style=for-the-badge&logoWidth=30" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/-OpenCV-F3F7FA?logo=opencv&logoColor=5C3EE8&style=for-the-badge&logoWidth=30" alt="OpenCV">
+    <img src="https://img.shields.io/badge/-PostgreSQL-F3F7FA?logo=postgresql&logoColor=336791&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/-Redis-F3F7FA?logo=redis&logoColor=DC382D&style=for-the-badge&logoWidth=30" alt="Redis">
+    <img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
+    <img src="https://img.shields.io/badge/-AWS-F3F7FA?logo=amazonaws&logoColor=232F3E&style=for-the-badge&logoWidth=30" alt="AWS">
+</div>
+
 <div align=left>
- <br/>
  
  ## About Me:
-Hi, this is Kaya! I am a graduate student at Northeastern University majoring in Computer Science. I am actively seeking for SDE 2025 New Grads and internships for 2025 Spring.
+Hi, this is Kaya! I am a graduate student at Northeastern University majoring in Computer Science. I am actively seeking for SDE 2025 New Grads and Research Oppotunities.
 
-I am passionate about web application development, with expertise in both front-end (JavaScript, React) and back-end (Node.js, Java). Coming from a background in physics equipped me with an analytical mind to solve problems effectively. Besides that, I’m eager to learn new technologies and frameworks!
+I am passionate about AI/ML and web development, with expertise in both front-end and back-end. Coming from a background in physics equipped me with an analytical mind to solve problems effectively. Besides that, I’m always eager to learn new technologies and frameworks as a fast learner!
 
 </div>
 
@@ -38,16 +54,23 @@ I am passionate about web application development, with expertise in both front-
 
 ### [Mushroom Identifier](https://github.com/kaya-rao/Mushroom_Identifier)
 
-##### CNN | TensorFlow | NumPy | DenseNet
+##### CNN | TensorFlow | NumPy | DenseNet201
+
 
 A deep learning project aimed at classifying mushroom species using pre-trained Convolutional Neural Networks (CNNs)
+
+![image](https://github.com/user-attachments/assets/c3ec31c4-822f-47cf-ba65-9665701724f3)
 
 
 ### [TinyCV](https://github.com/kaya-rao/TinyCV)
 
 ##### C++ | OpenCV
 
+
 Customized live-stream video filters library, build with OpenCV and C++.
+
+<img width="801" alt="image" src="https://github.com/user-attachments/assets/911b485c-098f-48b3-a2cc-ecf66a7c5348" />
+
 
 
 ### [Gallery web application](https://github.com/kaya-rao/art-gallery-react-app)
@@ -56,6 +79,9 @@ Customized live-stream video filters library, build with OpenCV and C++.
 
 Web application allow user to search for artworks, collect artworks and create their own gallery.
 
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/9d1aaade-e1cb-4e2b-9469-fd87b2e31be8" />
+
+
 
 ### [Kanvas web application](https://github.com/kaya-rao/kanbas-react-web-app-2/tree/main)
 
@@ -63,24 +89,33 @@ Web application allow user to search for artworks, collect artworks and create t
 
 A Canvas clone.
 
-### [Database Management System for role-play game](https://github.com/kaya-rao/DBMS_2023)
-
-##### MySQL | Java | JSP | JDBC
-
-A web application allow user to search for artworks, collect them and create their own gallery.
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/5548665f-4f96-4fae-978b-9fbce9c96446" />
 
 ### [Gesture-based music notation app](https://github.com/kaya-rao/music_app_java_2022fall)
 
 ##### Java | javax.swing | java.awt
 
-Java application allow user to search for artworks, collect them and create their own gallery.
+Java application allow user to use mouse input to create music notations.
 
 ### [Games: Othello game, Pacman, Mine Sweeper](https://github.com/kaya-rao/Games_Python_Processing)
-
 
 ##### Python | Processing
 
 Games developing using Python and Processing.
+
+<img width="884" alt="image" src="https://github.com/user-attachments/assets/c2e1a0a3-67c3-4da7-8810-4f3d9c93e614" />
+
+
+
+### [Database Management System for role-play game](https://github.com/kaya-rao/DBMS_2023)
+
+##### MySQL | Java | JSP | JDBC
+
+A relational database and data access interface of a role-playing game with a model of 24 interconnected tables, enable CRUD operations, and conducted Junit tests with 100% coverage.
+
+
+
+
 
 
 
