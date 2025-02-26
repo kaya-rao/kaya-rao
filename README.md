@@ -74,7 +74,7 @@ Customized live-stream video filters library, build with OpenCV and C++.
 
 Web application allow user to search for artworks, collect artworks and create their own gallery.
 
-<img width="713" alt="image" src="https://github.com/user-attachments/assets/9d1aaade-e1cb-4e2b-9469-fd87b2e31be8" />
+<img width="804" alt="image" src="https://github.com/user-attachments/assets/f5ee34c8-2872-4c40-9923-06a38cd308d8" />
 
 
 
