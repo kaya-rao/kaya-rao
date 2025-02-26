@@ -26,11 +26,6 @@
     <img src="https://img.shields.io/badge/-Next.js-F3F7FA?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">
     <img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
     <img src="https://img.shields.io/badge/-Express.js-F3F7FA?logo=express&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Express.js">
-</div>
-
-<br>
-
-<div align="left">
     <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
     <img src="https://img.shields.io/badge/-PyTorch-F3F7FA?logo=pytorch&logoColor=EE4C2C&style=for-the-badge&logoWidth=30" alt="PyTorch">
     <img src="https://img.shields.io/badge/-TensorFlow-F3F7FA?logo=tensorflow&logoColor=FF6F00&style=for-the-badge&logoWidth=30" alt="TensorFlow">
