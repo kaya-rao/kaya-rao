@@ -40,7 +40,6 @@
 ## Projects:
 
 ### [AI Assist Insurance Quote Recomendation (Build within 8 hours)](https://www.loom.com/share/480e507adb834d8ba90ed998bd8ec1c2)
-
 ##### OpenAI | Python | Pandas | streamlit
 
 An AI-powered insurance quote recommendation generator that:
@@ -50,10 +49,10 @@ An AI-powered insurance quote recommendation generator that:
 - Generates recommendations using LLM with risk insights and allows agents to adjust recommendations with comments
 
 ### [PaperEdge: On-Device Academic Paper Management with AI (Hackthon Project)](https://www.loom.com/share/669ee0d810f1418d97a9883d01a596d6)
-
 ##### AnythingLLM + Ollama(RAG-based retrieval) | Django | ReactJS | PostgreSQL
 
 PaperEdge is designed for researchers and students who need a local-first, privacy-preserving way to organize, summarize, and retrieve key information from research papers. Instead of relying on cloud-based tools, PaperEdge runs AI inference directly on-device for speed and security.
+[Link to repo](https://github.com/WillaLee/PaperManager)
 
 
 ### [Mushroom Identifier](https://github.com/kaya-rao/Mushroom_Identifier)
