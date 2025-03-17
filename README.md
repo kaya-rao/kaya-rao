@@ -52,6 +52,7 @@ An AI-powered insurance quote recommendation generator that:
 ##### AnythingLLM + Ollama(RAG-based retrieval) | Django | ReactJS | PostgreSQL
 
 PaperEdge is designed for researchers and students who need a local-first, privacy-preserving way to organize, summarize, and retrieve key information from research papers. Instead of relying on cloud-based tools, PaperEdge runs AI inference directly on-device for speed and security.
+
 [Link to repo](https://github.com/WillaLee/PaperManager)
 
 
@@ -61,6 +62,8 @@ PaperEdge is designed for researchers and students who need a local-first, priva
 
 
 A deep learning project aimed at classifying mushroom species using pre-trained Convolutional Neural Networks (CNNs)
+
+[The story](https://seattle.northeastern.edu/2025/01/29/building-skills-confidence-and-community-at-the-2024-student-research-showcase/)
 
 ![image](https://github.com/user-attachments/assets/c3ec31c4-822f-47cf-ba65-9665701724f3)
 
