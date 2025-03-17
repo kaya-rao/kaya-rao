@@ -39,6 +39,23 @@
 
 ## Projects:
 
+### [AI Assist Insurance Quote Recomendation (Build within 8 hours)](https://www.loom.com/share/480e507adb834d8ba90ed998bd8ec1c2)
+
+##### OpenAI | Python | Pandas | streamlit
+
+An AI-powered insurance quote recommendation generator that:
+
+- Extracts information from uploaded insurance quotes and identifies risks in the document
+- Retrieves geocoding data using Google Maps API, analyzes flood & hurricane risks based on geolocation
+- Generates recommendations using LLM with risk insights and allows agents to adjust recommendations with comments
+
+### [PaperEdge: On-Device Academic Paper Management with AI (Hackthon Project)](https://www.loom.com/share/669ee0d810f1418d97a9883d01a596d6)
+
+##### AnythingLLM + Ollama(RAG-based retrieval) | Django | ReactJS | PostgreSQL
+
+PaperEdge is designed for researchers and students who need a local-first, privacy-preserving way to organize, summarize, and retrieve key information from research papers. Instead of relying on cloud-based tools, PaperEdge runs AI inference directly on-device for speed and security.
+
+
 ### [Mushroom Identifier](https://github.com/kaya-rao/Mushroom_Identifier)
 
 ##### CNN | TensorFlow | NumPy | DenseNet201
