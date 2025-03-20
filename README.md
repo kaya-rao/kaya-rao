@@ -37,7 +37,7 @@
 
 <div align=left>
 
-## Projects:
+## Projects (click on the title to see the demo/repo)
 
 ### [AI Assist Insurance Quote Recomendation (Build within 8 hours)](https://www.loom.com/share/480e507adb834d8ba90ed998bd8ec1c2)
 ##### OpenAI | Python | Pandas | streamlit
