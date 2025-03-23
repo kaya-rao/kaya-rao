@@ -10,7 +10,7 @@
 -->
 🌱 I’m currently learning **NLP**, **Computer Vision**, **AI Infa** and **Distributed Systems**.<br>
 👯 I’m looking for **SDE 2025 New Grads** or **Research** Oppotunities!<br>
-💬 Ask me about anything related to **AI/ML**, building **scalable systems**, **volleyball**, or **film camera**.<br>
+💬 Ask me about anything related to **Software Development**,  **AI/ML**, **Volleyball**, or **Film Cameras**.<br>
 📫 How to reach me: **kaya.rao.jobs@gmail.com**<br>
 
 
