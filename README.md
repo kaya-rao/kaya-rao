@@ -53,7 +53,7 @@ An AI-powered insurance quote recommendation generator that:
 
 PaperEdge is designed for researchers and students who need a local-first, privacy-preserving way to organize, summarize, and retrieve key information from research papers. Instead of relying on cloud-based tools, PaperEdge runs AI inference directly on-device for speed and security.
 
-[Link to repo](https://github.com/WillaLee/PaperManager)
+[Link to repo](https://github.com/kaya-rao/PaperEdgeAI)
 
 
 ### [Mushroom Identifier](https://github.com/kaya-rao/Mushroom_Identifier)
