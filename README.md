@@ -119,6 +119,8 @@ Games developing using Python and Processing.
 
 A relational database and data access interface of a role-playing game with a model of 24 interconnected tables, enable CRUD operations, and conducted Junit tests with 100% coverage.
 
+<img align="center" width="750" alt="image" src="https://github.com/user-attachments/assets/54e20cbd-90d8-405e-9fb8-c7cdc058f0f6" />
+
 
 
 
