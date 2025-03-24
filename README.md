@@ -37,9 +37,11 @@
 
 <div align=left>
 
-## Projects (click on the title to see the demo/repo)
+## Projects:
 
 ### [AI Assist Insurance Quote Recomendation (Build within 8 hours)](https://www.loom.com/share/480e507adb834d8ba90ed998bd8ec1c2)
+[Demo](https://www.loom.com/share/480e507adb834d8ba90ed998bd8ec1c2)
+
 ##### OpenAI | Python | Pandas | streamlit
 
 An AI-powered insurance quote recommendation generator that:
@@ -49,26 +51,33 @@ An AI-powered insurance quote recommendation generator that:
 - Generates recommendations using LLM with risk insights and allows agents to adjust recommendations with comments
 
 ### [PaperEdge: On-Device Academic Paper Management with AI (Hackthon Project)](https://www.loom.com/share/669ee0d810f1418d97a9883d01a596d6)
+[Demo](https://www.loom.com/share/669ee0d810f1418d97a9883d01a596d6)
+&
+[Repo](https://github.com/kaya-rao/PaperEdgeAI)
+
 ##### AnythingLLM + Ollama(RAG-based retrieval) | Django | ReactJS | PostgreSQL
 
 PaperEdge is designed for researchers and students who need a local-first, privacy-preserving way to organize, summarize, and retrieve key information from research papers. Instead of relying on cloud-based tools, PaperEdge runs AI inference directly on-device for speed and security.
 
-[Link to repo](https://github.com/kaya-rao/PaperEdgeAI)
 
 
 ### [Mushroom Identifier](https://github.com/kaya-rao/Mushroom_Identifier)
+[Repo](https://github.com/kaya-rao/Mushroom_Identifier)
+& 
+[The story](https://seattle.northeastern.edu/2025/01/29/building-skills-confidence-and-community-at-the-2024-student-research-showcase/)
 
 ##### CNN | TensorFlow | NumPy | DenseNet201
 
 
 A deep learning project aimed at classifying mushroom species using pre-trained Convolutional Neural Networks (CNNs)
 
-[The story](https://seattle.northeastern.edu/2025/01/29/building-skills-confidence-and-community-at-the-2024-student-research-showcase/)
+
 
 ![image](https://github.com/user-attachments/assets/c3ec31c4-822f-47cf-ba65-9665701724f3)
 
 
 ### [TinyCV](https://github.com/kaya-rao/TinyCV)
+[Repo](https://github.com/kaya-rao/TinyCV)
 
 ##### C++ | OpenCV
 
@@ -80,6 +89,8 @@ Customized live-stream video filters library, build with OpenCV and C++.
 
 
 ### [Gallery web application](https://github.com/kaya-rao/art-gallery-react-app)
+[Repo](https://github.com/kaya-rao/art-gallery-react-app)
+
 
 ##### ReactJS | NodeJS | ExpressJS | MongoDB
 
@@ -90,6 +101,7 @@ Web application allow user to search for artworks, collect artworks and create t
 
 
 ### [Kanvas web application](https://github.com/kaya-rao/kanbas-react-web-app-2/tree/main)
+[Repo](https://github.com/kaya-rao/kanbas-react-web-app-2/tree/main)
 
 ##### ReactJS | NodeJS | ExpressJS | MongoDB
 
@@ -98,12 +110,14 @@ A Canvas clone.
 <img width="792" alt="image" src="https://github.com/user-attachments/assets/5548665f-4f96-4fae-978b-9fbce9c96446" />
 
 ### [Gesture-based music notation app](https://github.com/kaya-rao/music_app_java_2022fall)
+[Repo](https://github.com/kaya-rao/music_app_java_2022fall)
 
 ##### Java | javax.swing | java.awt
 
 Java application allow user to use mouse input to create music notations.
 
 ### [Games: Othello game, Pacman, Mine Sweeper](https://github.com/kaya-rao/Games_Python_Processing)
+[Repo](https://github.com/kaya-rao/Games_Python_Processing)
 
 ##### Python | Processing
 
@@ -114,6 +128,7 @@ Games developing using Python and Processing.
 
 
 ### [Database Management System for role-play game](https://github.com/kaya-rao/DBMS_2023)
+[Repo](https://github.com/kaya-rao/DBMS_2023)
 
 ##### MySQL | Java | JSP | JDBC
 
