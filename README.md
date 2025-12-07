@@ -8,12 +8,10 @@
 <!--
 🔭 I’m currently working on improving my  **personal website**. <br>
 -->
-🌱 I’m currently learning **NLP**, **Computer Vision**, **AI Infa** and **Distributed Systems**.<br>
-👯 I’m looking for **SDE 2025 New Grads** or **Research** Oppotunities!<br>
-💬 Ask me about anything related to **Software Development**,  **AI/ML**, **Volleyball**, or **Film Cameras**.<br>
+💬 Ask me about anything related to **Software Development**,  **AI/ML**, **Volleyball**, **Climbing**, or **Film Cameras**.<br>
 📫 How to reach me: **kaya.rao.jobs@gmail.com**<br>
 
-
+<!--
 ## Languages and Tools:
 
 <div align="left">
@@ -34,7 +32,7 @@
     <img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
     <img src="https://img.shields.io/badge/-AWS-F3F7FA?logo=amazonaws&logoColor=232F3E&style=for-the-badge&logoWidth=30" alt="AWS">
 </div>
-
+-->
 <div align=left>
 
 ## Projects:
